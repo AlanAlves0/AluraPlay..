@@ -1,7 +1,7 @@
 <h1>Alura Play</h1>
 
 <h2>Sobre</h2>
- <p>Projeto de uma plataforma de vídeo </p>
+ <p>Projeto de uma plataforma de vídeo do curso da Alura</p>
  <a href = "https://alura-play-iota-ochre.vercel.app">Clique aqui para acessar o projeto</a>
 <br><br><br> 
 ##Tecnologias
